@@ -1,2 +1,2 @@
 # SMR
-Solana Movie Reviwer for Some Backend scripting done for my SMR Using sea-food RUST Lang
+Solana Movie Reviwer System. Get some Solana Devnet Tokens and Leave Your favourite Movie review on the Solana Blockchain.
